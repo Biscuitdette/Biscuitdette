@@ -7,7 +7,7 @@
  
 - 🌱 I’m currently learning **Lua**
 
-- 📫 How to reach me **Biscuitdette#0001**
+- 📫 How to reach me **Biscuitdette#0001** on Discord
 
 - ⚡ Fun fact **I'm funny**
 
