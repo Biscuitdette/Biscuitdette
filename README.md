@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 ㅤ
-- 🔭 I’m currently working on a [script hub](https://github.com/Biscuitdette/Roblox-Scripts/blob/main/Biscuitdette-Hub.lua)ㅤ
+- 🔭 I’m currently working on a [Script Hub](https://github.com/Biscuitdette/Roblox-Scripts/blob/main/Biscuitdette-Hub.lua)ㅤ
  
 - 🌱 I’m currently learning **Lua**
 
