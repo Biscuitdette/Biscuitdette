@@ -1,13 +1,13 @@
-### Hi there 👋, i'm Biscuitdette !
-#### I'm a Front-End & Back-End developper
+### Salut 👋, je suis Biscuitdette !
+#### Je suis développeur Front-End & Back-End
 ![I'm a Front-End & Back-End developper](https://media.discordapp.net/attachments/1105235224331296802/1144375230471618703/v.png?width=1440&height=507)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: PYTHON / JS / LUA / HTML / CSS
+Compétences : PYTHON / JS / LUA / HTML / CSS
 
-- 🔭 I’m currently working on A hebergor site 
-- 📫 How to reach me: biscuitdette in Discord 
+- 🔭 Je travaille actuellement sur un site d'hébergement
+- 📫 Comment me joindre : biscuitdette sur Discord
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Biscuitdette)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Biscuitdette/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Biscuitdette)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@Biscuitdette)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](panel.dogenation.xyz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](biscuitdette)  
