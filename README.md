@@ -4,7 +4,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Compétences : PYTHON / JS / LUA / HTML / CSS
+Compétences : PYTHON / JavaScript / LUA / HTML / CSS
 
 - 🔭 Je travaille actuellement sur un site d'hébergement
 - 📫 Comment me joindre : biscuitdette sur Discord
