@@ -22,8 +22,9 @@
 
 ## 📊 Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Biscuitdette&theme=onedark)](https://git.io/streak-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biscuitdette&theme=onedark)
 
 ![Biscuitdette's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biscuitdette&show_icons=true&theme=onedark)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Biscuitdette&theme=onedark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Biscuitdette&theme=onedark)](https://git.io/streak-stats)
+
