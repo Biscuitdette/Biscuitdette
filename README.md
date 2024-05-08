@@ -4,7 +4,7 @@
 
 [![Tools](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,raspberrypi,vscode,pycharm,robloxstudio)](https://skillicons.dev)
 
-[![Frameworks & Others](https://skillicons.dev/icons?i=bash,github,git,mysql,redis,django,docker,nginx,cloudflare)](https://skillicons.dev)
+[![Frameworks & Others](https://skillicons.dev/icons?i=discord,bash,github,git,mysql,redis,django,docker,nginx,cloudflare)](https://skillicons.dev)
 
 ---
 
